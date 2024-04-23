@@ -1,10 +1,10 @@
 /************************************************************============ Electoral Bonds Database =========== *******************************************************************
- -- Database created by: V. M R
+ -- Database created by: SHADAB SYED
  -- Database Name: electoralbonddata
- -- Author of Queries : V. M R
+ -- Author of Queries : SHADAB SYED
  -- Organization : Careerpedia
  -- Description: This is a database which has electoral bonds data provided by Govenement of INDIA after Supreme Court Ruling. 
- -- Date : 02-April-2024
+ -- Date : 23-April-2024
 **********************************************************************************************************************************************************************************/
 
 /*************************************************************************Tables and Data Description*****************************************************************************
